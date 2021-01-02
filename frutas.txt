@@ -1,4 +1,0 @@
-frutas
--manzana
--pera
--mandarina
